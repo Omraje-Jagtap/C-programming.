@@ -112,4 +112,4 @@ This repository is the first step in a longer path toward becoming an AI/ML engi
 
 ## Contributing
 
-This is a personal learning project, but suggestions, corrections, and better approaches are welcome. Feel free to open an issue or submit a pull request.
+This is a personal learning project, but suggestions, corrections, and better approaches are welcome. Feel free to open an issue or submit a pull request
